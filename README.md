@@ -1,2 +1,3 @@
 # TaskTrackerIssues
-A place to gather issues with my private project
+
+Anyone involved in my closed beta, please use this project to report issues using my app.  
